@@ -56,4 +56,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  artoo
   artoo-crazyflie
